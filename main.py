@@ -307,4 +307,4 @@ class YTDOWNLOADaudio(discord.ui.View):
             self.add_item(two56kbps())
 
 
-client.run("ODc3MTAxNDkzMTU1NjkyNTU1.YRtuaw.wlBPWyKWMCuBCIhJDGBhis9ulKU")
+client.run("BOT_TOKEN")
